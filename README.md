@@ -1,3 +1,7 @@
+# Important information
+
+On May 23, Valve released the major patch 7.39, which caused the website's database to be reset. If you notice a lot of missing data, please use the database file from May 17 located in the root folder.
+
 # GameStatsTool
 
 ## About
